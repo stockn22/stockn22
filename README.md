@@ -11,7 +11,7 @@
     - [Write me an email](mailto:namratabhaumik16@gmail.com)
 
 ### Do you like to read? Then follow along ⬇️
-  -  [Behind the Scenes: Challenges, Triumphs, and Insights of a Software Intern](https://medium.com/@criton.2027/behind-the-scenes-challenges-triumphs-and-insights-of-a-software-intern-423522ab7195)
+  -  [Behind the Scenes: Challenges, Triumphs, and Insights of a Software Intern](https://medium.com/@criton.2027/behind-the-scenes-challenges-triumphs-and-insights-of-a-software-intern-423522ab7195?source=friends_link&sk=33c45e558155ebbe5cdbcd54f18a1866)
 
 ### Certifications
   - [Back-End Developer Capstone by Meta](https://www.coursera.org/account/accomplishments/verify/B8MFZQLQPECL?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
