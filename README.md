@@ -12,6 +12,7 @@
 
 ### Do you like to read? Then follow along ⬇️
   -  [Behind the Scenes: Challenges, Triumphs, and Insights of a Software Intern](https://namrata-bhaumik.medium.com/behind-the-scenes-challenges-triumphs-and-insights-of-a-software-intern-423522ab7195?source=friends_link&sk=33c45e558155ebbe5cdbcd54f18a1866)
+  -  [From Intern to Full-Time Software Engineer (And Beyond): A Journey of Achievements and Innovations!](https://namrata-bhaumik.medium.com/from-intern-to-full-time-software-engineer-and-beyond-a-journey-of-achievements-and-innovations-ac28ff4533ea?source=friends_link&sk=e1a551eaa04f49580471fb5703328f65)
 
 ### Certifications
   - [Back-End Developer Capstone by Meta](https://www.coursera.org/account/accomplishments/verify/B8MFZQLQPECL?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
