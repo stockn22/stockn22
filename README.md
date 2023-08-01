@@ -1,4 +1,4 @@
-### Hi there! I'm Namrata 👋 (she/her) 
+### Hi there! I'm Namrata 👋 (she/her)
 
 ### My foundations lie in    
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)    ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -27,3 +27,7 @@
   - [Data-Professional-Survey](https://github.com/namratabhaumik/Data-Professional-Survey): Power Bi report showcasing survey taken by several data professionals
   -  [HR-Report-Survey](https://github.com/namratabhaumik/HR-Report-Survey): It consists of the full analysis of the employees working in an organisation
   -  [Littlelemon Web Application](https://github.com/namratabhaumik/littlelemon/tree/branch_1): A dynamic restaurant website built using Django
+
+<p align="right"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=namratabhaumikgithub&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a></p>
