@@ -30,6 +30,7 @@
   - [Data-Professional-Survey](https://github.com/namratabhaumik/Data-Professional-Survey): Power Bi report showcasing survey taken by several data professionals
   -  [HR-Report-Survey](https://github.com/namratabhaumik/HR-Report-Survey): It consists of the full analysis of the employees working in an organisation
   -  [Littlelemon Web Application](https://github.com/namratabhaumik/littlelemon/tree/branch_1): A dynamic restaurant website built using Django
+  -  [MealMate Mobile App](https://github.com/namratabhaumik/MealMate): An Android application for regular meal planning and sharing recipes
 
 <p align="right"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=namratabhaumikgithub&label=Profile%20Views&color=12&icon=5&pretty=true" />
