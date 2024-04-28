@@ -14,6 +14,7 @@
   -  [Choosing Friends and Building Teams: Parallels and Ponderings](https://namrata-bhaumik.medium.com/choosing-friends-and-building-teams-parallels-and-ponderings-e89efea0947d?source=friends_link&sk=a1a0977a3114aa424b254d206eb20262)
   -  [The Power of Purpose: Why Building a Team Matters](https://namrata-bhaumik.medium.com/the-power-of-purpose-why-building-a-team-matters-2a9bce4f6db2?source=friends_link&sk=06ee1d7a2fbf52b521dd145e8e634bc7)
   -  [Unexpected Turns: My Journey Abroad](https://namrata-bhaumik.medium.com/8cb0f2f57954?source=friends_link&sk=1c901279abd39978012ae5d4128bc743)
+  -  [Cooking Up Success: Inside the Development of MealMate](https://namrata-bhaumik.medium.com/cooking-up-success-inside-the-development-of-mealmate-3f387f595d4b?source=friends_link&sk=53b9d742ec21e75763da5c950029639f)
 
 ### Certifications
   - [Back-End Developer Capstone by Meta](https://www.coursera.org/account/accomplishments/verify/B8MFZQLQPECL?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
