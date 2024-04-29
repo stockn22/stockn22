@@ -16,6 +16,7 @@
   -  [Unexpected Turns: My Journey Abroad](https://namrata-bhaumik.medium.com/8cb0f2f57954?source=friends_link&sk=1c901279abd39978012ae5d4128bc743)
   -  [Cooking Up Success: Inside the Development of MealMate](https://namrata-bhaumik.medium.com/cooking-up-success-inside-the-development-of-mealmate-3f387f595d4b?source=friends_link&sk=53b9d742ec21e75763da5c950029639f)
   -  [Thrifthub Tales: Crafting Community, Curating Style](https://namrata-bhaumik.medium.com/thrifthub-tales-crafting-community-curating-style-3487db906370?source=friends_link&sk=6ee45216aae088f8126dcbace55d3e8b)
+  -  [Discovering Insights: Exploring Obesity Trends in Canada](https://namrata-bhaumik.medium.com/discovering-insights-exploring-obesity-trends-in-canada-a3ab3418fb5e?source=friends_link&sk=61c7527ceba438998f1d9710826d8ac7)
 
 ### Certifications
   - [Back-End Developer Capstone by Meta](https://www.coursera.org/account/accomplishments/verify/B8MFZQLQPECL?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
