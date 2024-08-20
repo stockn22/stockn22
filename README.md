@@ -18,6 +18,7 @@
   -  [Thrifthub Tales: Crafting Community, Curating Style](https://namrata-bhaumik.medium.com/thrifthub-tales-crafting-community-curating-style-3487db906370?source=friends_link&sk=6ee45216aae088f8126dcbace55d3e8b)
   -  [Discovering Insights: Exploring Obesity Trends in Canada](https://namrata-bhaumik.medium.com/discovering-insights-exploring-obesity-trends-in-canada-a3ab3418fb5e?source=friends_link&sk=61c7527ceba438998f1d9710826d8ac7)
   -  [From Gamer to Creator: Diving into Unity and VR](https://namrata-bhaumik.medium.com/embarking-on-my-unity-game-development-journey-7500feb6262a?source=friends_link&sk=7b453578c80c84577618672df8464ded)
+  -  [From Idea to Launch: The Story of BlogIt](https://namrata-bhaumik.medium.com/from-idea-to-launch-the-story-of-blogit-d14da2012d40?source=friends_link&sk=40675e361f49ebecb8ee2f28b70c8b30)
 
 ### Certifications
   - [Back-End Developer Capstone by Meta](https://www.coursera.org/account/accomplishments/verify/B8MFZQLQPECL?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
