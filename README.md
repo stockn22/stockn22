@@ -41,7 +41,7 @@
   -  [Obesity Data Visualization](https://github.com/namratabhaumik/ObesityDataVisualization): D3.js visualizations for obesity rates in Canada
   -  [ThriftHub](https://github.com/namratabhaumik/ThriftHub-Online-Thrift-Store): Online thrift store for university students
   -  [BlogIt](https://github.com/namratabhaumik/BlogIt): A dynamic platform where content creators unite
-  -  [DalVacationHome]()
+  -  [DalVacationHome](https://github.com/namratabhaumik/DalVacationHome): Revolutionizing vacation rental management with a cutting-edge cloud platform, powered by GCP and AWS services
 
 <p align="right"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=namratabhaumikgithub&label=Profile%20Views&color=12&icon=5&pretty=true" />
