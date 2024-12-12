@@ -25,6 +25,7 @@ I’m currently diving deeper into cloud technologies, preparing for the **AWS C
   -  [ThriftHub](https://github.com/namratabhaumik/ThriftHub-Online-Thrift-Store): Online thrift store for university students
   -  [BlogIt](https://github.com/namratabhaumik/BlogIt): A dynamic platform where content creators unite
   -  [DalVacationHome](https://github.com/namratabhaumik/DalVacationHome): Revolutionizing vacation rental management with a cutting-edge cloud platform, powered by GCP and AWS services
+  -  [](): A VR evacuation simulation built with Unity3D to analyze pedestrian behavior during fire emergencies.
 
 <p align="right"><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=namratabhaumikgithub&label=Profile%20Views&color=12&icon=5&pretty=true" />
