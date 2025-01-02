@@ -17,6 +17,7 @@ I’m currently building pojects in AWS; exploring how cloud services can enhanc
   - [Microsoft Certified: Power Platform Fundamentals](https://www.credly.com/badges/c16b4879-0e08-46af-b834-7b8e0144250e/public_url)
 
 ### Projects
+  - [ExpenseTracker](https://github.com/namratabhaumik/ExpenseTracker): Expense management system using AWS services like Lambda, DynamoDB, S3, and Cognito, showcasing serverless architecture and API integrations.
   - [VR-Evacuation-Simulation](https://github.com/namratabhaumik/VR-Evacuation-Simulation): A VR evacuation simulation built with Unity3D to analyze pedestrian behavior during fire emergencies.
   - [DalVacationHome](https://github.com/namratabhaumik/DalVacationHome): Revolutionizing vacation rental management with a cutting-edge cloud platform, powered by GCP and AWS services
   - [BlogIt](https://github.com/namratabhaumik/BlogIt): A dynamic platform where content creators unite
